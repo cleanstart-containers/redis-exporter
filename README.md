@@ -72,14 +72,14 @@ docker pull --platform linux/arm64 cleanstart/redis-exporter:latest
 ```
 
 **
-### Resources & Documentation  
-Essential links and resources for further information:
+### 
+### Resources
 
-- CleanStart Website: https://www.cleanstart.com
+- Official Documentation: https://github.com/oliver006/redis_exporter
 - View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/redis-exporter
+- Docker Hub: https://hub.docker.com/r/cleanstart/redis-exporter
 - CleanStart All Images: https://images.cleanstart.com
-- CleanStart Community Images: https://hub.docker.com/u/cleanstart
-- Other location for Community image: https://hub.docker.com/r/cleanstart/redis-exporter
+- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
 
 ---
 
