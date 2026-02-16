@@ -80,7 +80,7 @@ docker pull --platform linux/arm64 ghcr.io/cleanstart-containers/redis-exporter:
 - **Official Documentation:** https://github.com/oliver006/redis_exporter
 - **Provenance / SBOM / Signature:** https://images.cleanstart.com/images/redis-exporter
 - **Docker Hub:** https://hub.docker.com/r/cleanstart/redis-exporter
-- **CleanStart All Images:** https://images.cleanstart.com
+- **CleanStart All Images:** https://images.cleanstart.com/images/redis-exporter/details
 - **CleanStart Community Images:** https://hub.docker.com/u/cleanstart
 
 ### Vulnerability Disclaimer
